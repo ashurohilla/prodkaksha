@@ -22,7 +22,7 @@ export default function Hero() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-600 to-blue-600">
                 Together
               </span>{" "}
-              with Kaksha.com
+              with Kaksha
             </h1>
 
             <p className="text-xl text-gray-600 mb-12 max-w-2xl mx-auto leading-relaxed">

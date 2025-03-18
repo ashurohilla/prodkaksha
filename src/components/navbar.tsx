@@ -20,7 +20,7 @@ export default async function Navbar() {
           className="text-2xl font-bold flex items-center text-orange-600"
         >
           <BookOpen className="w-8 h-8 mr-2" />
-          Kaksha.com
+          Kaksha
         </Link>
 
         <div className="hidden md:flex space-x-6">

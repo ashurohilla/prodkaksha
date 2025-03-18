@@ -1,6 +1,5 @@
 import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
-import PricingCard from "@/components/pricing-card";
 import Footer from "@/components/footer";
 import { FeaturedCommunities } from "@/components/featured-communities";
 import { createClient } from "../../supabase/server";
